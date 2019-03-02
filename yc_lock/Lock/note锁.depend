@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1488103051 source:e:\c语言工程\note锁\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1488103197 source:e:\c语言工程\note锁\icon.rc
+

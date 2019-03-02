@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1488101972 source:e:\c语言工程\note\icon.rc
+
+1488103721 source:e:\c语言工程\note解\icon.rc
+
+1488105943 source:e:\c语言工程\note解\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+

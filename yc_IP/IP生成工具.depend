@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1496539043 source:e:\c语言工程\ip生成工具\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+

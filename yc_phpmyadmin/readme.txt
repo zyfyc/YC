@@ -1,0 +1,13 @@
+YC‘tool
+夜程(3365487579)
+phpmyadmin爆破
+前两天用test404的phpmyadmin说啥更新不了，不能用了。。。
+然后，自己写了个
+功能介绍如下：
+默认路径是http://****.com/phpmyadmin/
+线程为500
+目标站放到url.txt
+用户名放到user.txt
+密码放到password.txt
+成功的生成到good.txt
+ok
